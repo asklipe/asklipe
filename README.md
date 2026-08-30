@@ -9,11 +9,11 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/users/1416260273446322256" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.com/users/1416260273446322256" target="_blank" title="Meu Perfil no Discord">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
-  <a href="https://www.youtube.com/channel/UC6rFG9gOtmCweV0cwETISnAv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://lipecode.base44.app" target="_blank" title="Meu Website - LipeCode">
+    <img src="https://i.ibb.co/s90cbVRS/world.png" width="52" height="40" alt="Website" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h6 align="left">Olá, meu nome é Emanuel Felipe. Tenho 13 anos e comecei minha jornada na tecnologia aos 8 anos, participando de cursos de robótica e programação na minha cidade, Barueri (SP).<br><br>Desde cedo, desenvolvi interesse por computadores, automações e criação de projetos, explorando diferentes áreas como desenvolvimento, lógica de programação e tecnologia em geral. Estou sempre buscando aprender mais e evoluir minhas habilidades, criando projetos próprios e experimentando novas ideias.<br><br>Atualmente, continuo estudando e desenvolvendo soluções que unem criatividade e tecnologia, com foco em crescer cada vez mais como desenvolvedor.</h6>
+<h6 align="left">Olá, meu nome é Emanuel Felipe. Tenho 13 anos e comecei minha jornada na tecnologia aos 8 anos, participando de cursos de robótica e programação na minha cidade, Barueri (SP).<br><br>Desde cedo, desenvolvi interesse por computadores, automações e criação de projetos, explorando diferentes áreas como desenvolvimento, lógica de programação e tecnologia em geral. Estou sempre buscando aprender mais e evoluir minhas habilidades, criando projetos próprios e experimentando novas ideias.<br><br>Atualmente, continuo estudando e desenvolvendo soluções que unem criatividade e tecnologia, com foco em crescer cada vez mais como desenvolvedor. Para suporte e mais acesse </h6>
 
 ###
 
