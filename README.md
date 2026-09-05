@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/1416260273446322256" target="_blank" title="Meu Perfil no Discord">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
-  <a href="https://lipecode.base44.app" target="_blank" title="Meu Website - LipeCode">
+  <a href="https://asklipe.base44.app" target="_blank" title="Meu Website - LipeCode">
     <img src="https://i.ibb.co/s90cbVRS/world.png" width="52" height="40" alt="Website" />
   </a>
 </div>
