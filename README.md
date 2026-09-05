@@ -37,6 +37,16 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/ffffff" height="40" alt="arduino logo" title="Arduino" />
 </div>
+<h3 align="center">IDEs</h3>
+<div align="center">
+  <img src="https://i.ibb.co/prbRnX80/visual-basic-1.png" height="40" alt="VS Code logo" title="VS Code" />
+    <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/ffffff" height="40" alt="Arduino IDE" title="Arduino IDE" />
+    <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub" title="GitHub" />
+</div> 
+
+
 <h3 align="center">
 </div>
 <h3 align="center">Estatísticas</h3>
