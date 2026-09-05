@@ -14,7 +14,7 @@
 </div>
 <br>
 <h3 align="center">Quem sou eu?</h3>
-<h6 align="left">Olá, meu nome é Emanuel Felipe. Tenho 13 anos e comecei minha jornada na tecnologia aos 8 anos, participando de cursos de robótica e programação na minha cidade, Barueri (SP).<br><br>Desde cedo, desenvolvi interesse por computadores, automações e criação de projetos, explorando diferentes áreas como desenvolvimento, lógica de programação e tecnologia em geral. Estou sempre buscando aprender mais e evoluir minhas habilidades, criando projetos próprios e experimentando novas ideias.<br><br>Atualmente, continuo estudando e desenvolvendo soluções que unem criatividade e tecnologia, com foco em crescer cada vez mais como desenvolvedor.</h6>
+<h6 align="left">Olá, meu nome é Emanuel Felipe. Tenho 14 anos e comecei minha jornada na tecnologia aos 8 anos, participando de cursos de robótica e programação na minha cidade, Barueri (SP).<br><br>Desde cedo, desenvolvi interesse por computadores, automações e criação de projetos, explorando diferentes áreas como desenvolvimento, lógica de programação e tecnologia em geral. Estou sempre buscando aprender mais e evoluir minhas habilidades, criando projetos próprios e experimentando novas ideias.<br><br>Atualmente, continuo estudando e desenvolvendo soluções que unem criatividade e tecnologia, com foco em crescer cada vez mais como desenvolvedor. Atualmente participante de projetos da minha cidade com a Colaborativa de Barueri, Google for Educations- Aluno Tutor, e participante da Team Coding, um time dentro do projeto do Aluno Tutor focado em programação para competitivos de aplicações.</h6>
 <h3 align="center">Tecnologias</h3>
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/ffffff" height="40" alt="python logo" title="Python" />
@@ -48,9 +48,4 @@
 
 
 <h3 align="center">
-</div>
-<h3 align="center">Estatísticas</h3>
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=asklipe&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asklipe&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
 </div>
