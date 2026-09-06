@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/ffffff" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/ffffff" height="40" alt="arduino logo" title="Arduino" />
+
 </div>
 <h3 align="center">IDEs</h3>
 <div align="center">
