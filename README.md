@@ -9,7 +9,8 @@
  <div align="center">
   <img src="https://skillicons.dev/icons?i=discord&theme=dark" 
   <a href="https://asklipe.base44.app" target="_blank" title="Meu Website - AskLipe">
-    <img src="https://i.ibb.co/s90cbVRS/world.png" width="52" height="40" alt="Website" />
+    <img src="https://i.ibb.co/s90cbVRS/world.png" width="52" height="40" alt="Website" 
+
   </a>
 </div>
 <br>
