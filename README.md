@@ -21,5 +21,5 @@
 </div>
 <h3 align="center">IDEs</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,arduino,github&theme=dark" alt="IDEs" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode,arduino,github&theme=dark" alt="IDEs" />
 </div>
