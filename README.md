@@ -5,7 +5,7 @@
   <sub>Marco Antônio</sub>
 </p>
 <div align="center">
-  <a href="https://discord.com/users/1416260273446322256" target="_blank" title="Meu Perfil no Discord">
+  <a href="https://discord.gg/URxTcaEK5F" target="_blank" title="Nerd Community">
  <div align="center">
   <img src="https://skillicons.dev/icons?i=discord&theme=dark" 
   <a href="https://asklipe.base44.app" target="_blank" title="Meu Website - AskLipe">
